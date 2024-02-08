@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-Black.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-Black.woff2) format(truetype);
+    font-weight: black;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-Bold.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-Bold.ttf) format(truetype);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-ExtraBold.woff2) format(woff2),
+    url(./vazirfont/vazirmatn-ExtraBold.ttf) format(truetype);
+    font-weight:bold;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-ExtraLight.woff2) format(woff2),
+    url(./vazirfont/vazirmatn-ExtraLight.ttf) format(truetype);
+    font-weight:lighter ;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-Light.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-Light.ttf) format(truetype);
+    font-weight: lighter;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-Medium.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-Medium.ttf) format(truetype);
+    font-weight: normal;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/vazirmatn-RD-Black.woff2) format(woff2),
+    url(./vazirfont/vazirmatn-RD-Black.ttf) format(truetype);
+    font-weight: black;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-RD-Bold.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-RD-Bold.ttf) format(truetype);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-RD-ExtraBold.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-RD-ExtraBold.ttf) format(truetype);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-RD-ExtraLight.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-RD-ExtraLight.ttf) format(truetype);
+    font-weight: lighter;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-RD-Light.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-RD-Light.ttf) format(truetype);
+    font-weight:lighter ;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-RD-Medium.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-RD-Medium.ttf) format(truetype);
+    font-weight: normal;
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-RD-Regular.woff2) format(woff2),
+    url(./vazirfont/Vzirmatn-RD-Regular.ttf) format(truetype);
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-RD-Semibold.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-RD-Semibold.ttf) format(truetype);
+}
+@font-face {
+    font-family: "vazir";
+    src: url(./vazirfont/Vazirmatn-RD-Thin.woff2) format(woff2),
+    url(./vazirfont/Vazirmatn-RD-Thin.ttf) format(truetype);
+}
+
+
+
+
+
+
+
+
+
+
+

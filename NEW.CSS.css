@@ -1,0 +1,115 @@
+html{
+    font-size: 100%;
+    font-family: vazir;
+    font-weight: bold;
+}
+.bdy-stl{
+    background-color: #2a3040;
+
+}
+.container{
+    background-color: #dddcdc;
+    width: 40%;
+    margin: 0 AUTO;
+    border: 4px solid #fff;
+
+}
+.form{
+    font-size: .8rem;
+    font-weight: bold;
+    margin: .5rem;
+
+
+}
+.form-title{
+    width:50%;
+    height: 50%;
+    font-size: 1rem;
+    color: rgb(37, 71, 80);
+    margin: 2rem;
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*position: center;*/
+}
+
+.label-form{
+    font-weight: bold;
+}
+@media screen and (max-width: 48rem){
+    .container{
+        width: calc(40% - 2rem);
+        margin-right: 1rem;
+    }
+    .form{
+        width: calc(10% - 2rem);
+        margin: .4rem;
+        font-size: .5rem;
+        font-weight: inherit;
+    }
+    .form-title{
+        width: calc(40% - 8rem);
+        font-weight: 400;
+    }
+    .btn-sabt{
+        width: calc(20% - 1rem);
+        padding:  .2rem;
+        font-size: smaller;
+    }
+
+}
+.form label,
+.form input:not([type="checkbox"]){
+    display: block;
+
+}
+.form input:focus{
+    background: #dddcdc;
+    outline: none;
+    border: 1px solid rgb(138,134,134)!important;
+}
+.input-span{
+    color: red;
+    margin-left: 2rem;
+}
+.form input.input-form{
+    display: block;
+    width: 40%;
+    font-family: inherit;
+    padding: .4rem .4rem;
+    border-radius: 4px;
+    border: 1px solid rgba(0,0,0,.3);
+    font-weight: bold;
+}
+.input-form,
+.label-form{
+ margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.btn-sabt:focus{
+    background: rgba(8,59,1);
+    outline: none;
+    border: 1px solid rgb(161,224,187);
+}
+.form input.invalid,
+.form input:invalid{
+    background-color: rgb(240,175,175);
+    border: 1px solid rgb(243,170,170) !important;
+
+}
+.form input.input-form::placeholder{
+    color: rgb(51,49,49);
+    font-size: .8rem;
+    font-weight: 700;
+}
+.btn-sabt{
+    position: relative;
+    left: 80%;
+    background-color: rgb(132, 143, 154);
+    border: 1px solid rgb(10, 86, 94);
+    font-weight: bold;
+    border: none;
+    font-family: inherit;
+    padding: .5rem 1rem;
+    border-radius: 4px;
+}
